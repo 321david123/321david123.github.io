@@ -1,1 +1,11 @@
-
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "MQ426V7959.com.dmr.echo",
+        "paths": ["/s/*"]
+      }
+    ]
+  }
+}
